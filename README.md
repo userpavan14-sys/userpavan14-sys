@@ -24,7 +24,7 @@
 ### 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,java,spring,mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,,spring,mysql,git,github,vscode&theme=dark" />
 </p>
 
 ### 🚀 Featured Projects
@@ -55,12 +55,9 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,bootstrap,flask,spring,mysql,git,github,vscode&theme=dark" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,flask,spring,mysql,git,github,vscode&theme=dark" alt="Languages and Tools" />
 </p>
 
 
 
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,bootstrap,flask,spring,mysql,git,github,vscode&theme=dark" alt="Languages and Tools" />
-</p>

@@ -24,7 +24,7 @@
 ### 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,,spring,mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,spring,mysql,git,github,vscode&theme=dark" />
 </p>
 
 ### 🚀 Featured Projects
